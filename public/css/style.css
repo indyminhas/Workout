@@ -1,0 +1,52 @@
+body {
+    background-color: #d8d7da;
+    background-size: cover;
+}
+
+#top-logo{
+    width: 200px;
+    margin-top: 5vh;
+}
+
+#login, #signup{
+    color: #4a4a4a;
+}
+
+.buffer-and-background {
+    position: relative;
+    top: 5vh;
+    background-color: #d8d7da9d;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.background-div {
+    background-color: #d8d7dabb;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.no-margin{
+    margin: 0;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+ #workout-button, #logoutBtn{
+    color: black;
+    margin: 0;
+    font-size: 16px;
+ }
+
+ #completeWorkout{
+     margin-top: 10px;
+ }
+
+ #top-menu{
+    margin-bottom: 5px;
+ }
+
+ #totalWeight{
+     margin-left: 20px;
+ }
